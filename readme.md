@@ -37,7 +37,8 @@ python ./tools/train.py ./configs/SRNet/SRNet_r50_fpn_3x_SSDD__le90.py --work-di
 
 ## the best weights files:
 please download form : 
-###### uploading
+link：https://pan.baidu.com/s/1SHYMrAHSC9gGD6CydibMnA 
+code：pikr
 
 
 ## the Instance-RSDD dataset:
@@ -47,7 +48,8 @@ XU Congan, SU Hang, LI Jianwei, et al. RSDD-SAR: Rotated ship detection dataset 
 
 
 please download form : 
-###### uploading
+link：https://pan.baidu.com/s/1gjNTH8gqRBH52GQ2GLDjUg 
+code：e0jd
 
 
 ## please cite our paper:
